@@ -1,0 +1,15 @@
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\bin\Debug\netcoreapp3.1\CreateVueApp.exe
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\bin\Debug\netcoreapp3.1\CreateVueApp.deps.json
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\bin\Debug\netcoreapp3.1\CreateVueApp.runtimeconfig.json
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\bin\Debug\netcoreapp3.1\CreateVueApp.runtimeconfig.dev.json
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\bin\Debug\netcoreapp3.1\CreateVueApp.dll
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\bin\Debug\netcoreapp3.1\CreateVueApp.pdb
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\obj\Debug\netcoreapp3.1\CreateVueApp.AssemblyInfoInputs.cache
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\obj\Debug\netcoreapp3.1\CreateVueApp.AssemblyInfo.cs
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\obj\Debug\netcoreapp3.1\CreateVueApp.csproj.CoreCompileInputs.cache
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\obj\Debug\netcoreapp3.1\CreateVueApp.dll
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\obj\Debug\netcoreapp3.1\CreateVueApp.pdb
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\obj\Debug\netcoreapp3.1\CreateVueApp.genruntimeconfig.cache
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\obj\Debug\netcoreapp3.1\CreateVueApp.csprojAssemblyReference.cache
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zuo\source\repos\CreateVueApp\CreateVueApp\obj\Debug\netcoreapp3.1\CreateVueApp.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pCi3/2UdmxP5jNQTuywq/MrUPIKiXjFd2aCXke/qVktj5VTzIHHW/UPFOwaNSpM7jT6PRMhfCb3QwbNIVc7QSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zuo\\source\\repos\\CreateVueApp\\CreateVueApp\\CreateVueApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zuo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

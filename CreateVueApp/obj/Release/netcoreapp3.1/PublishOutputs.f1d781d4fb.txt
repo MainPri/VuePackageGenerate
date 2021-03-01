@@ -1,0 +1,6 @@
+D:\ControllerExe\CreateVueApp.exe
+D:\ControllerExe\CreateVueApp.dll
+D:\ControllerExe\CreateVueApp.deps.json
+D:\ControllerExe\CreateVueApp.runtimeconfig.json
+D:\ControllerExe\CreateVueApp.pdb
+D:\ControllerExe\Newtonsoft.Json.dll
